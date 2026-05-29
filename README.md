@@ -8,3 +8,9 @@ Computer first blinks the memory sequence, for the corresponding level and after
 The sequences are generated randomly by the computer and for each sequence created, it is added to the memory. 
 Random sequences are created due to random seed values from the open circuit Analog pin A0.
 If the sequence provided by the player (in another answer variable), matches the memory sequence he passes that level, otherwise Serial monitor displays Game Over with the final Score and Game stops.
+
+
+https://github.com/user-attachments/assets/5c2410a6-36bc-4a14-87f7-87c67202b689
+
+
+
